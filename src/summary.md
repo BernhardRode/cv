@@ -1,3 +1,0 @@
-# 🔍 Summary
-
-Senior cloud solution developer with 10+ years of experience designing and building scalable web applications and services. Building awesome user experience (design and performance) is my passion. With a piece of profound knowledge in networking and web frontend architectures, I see everything from the database to the screen, as my natural habitat. Frontend developers are always the last in the chain to see, what final data looks like. Still, they are the first in line to get bug reports from unsatisfied users. After many years in the business, I've developed a strong drive to automate as much as possible and have lean release processes in my projects.

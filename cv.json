@@ -1,0 +1,174 @@
+{
+  "firstName": "Bernhard",
+  "lastName": "Rode",
+  "contact": {
+    "email": "mail@bernhardrode.de",
+    "phone": "+491715629409",
+    "linkedin": "linkedin.com/in/bernhardrode",
+    "website": "https://bernhardrode.de"
+  },
+  "summary": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!).  When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?).",
+  "experience": [
+    {
+      "title": "Senior Cloud Solution Engineer / Tech Lead",
+      "company": "Bosch Engineering GmbH",
+      "startDate": "2022-08",
+      "endDate": "present",
+      "technologies": [
+        "#Automotive",
+        "#Azure",
+        "#AWS",
+        "#IoT",
+        "#Industry4.0",
+        "#CloudNative",
+        "#GitHub",
+        "#GitHubActions"
+      ],
+      "description": "I collaborated with clients, management, and development teams to design and implement cloud services for the automotive industry."
+    },
+    {
+      "title": "Senior Cloud Solution Engineer",
+      "company": "Bosch",
+      "startDate": "2021-08",
+      "endDate": "2022-08",
+      "highlights": [
+        "Built a future-proof software development environment for Bosch developers",
+        "Joined forces with Microsoft/GitHub on building modern tools for the automotive industry"
+      ],
+      "technologies": [
+        "#DeveloperAdvocacy",
+        "#DigitalTransformation",
+        "#IoT",
+        "#Github",
+        "#GitHubActions",
+        "#AzureKubernetesService",
+        "#AzureStaticWebApps",
+        "#Serverless",
+        "#Agile",
+        "#Scrum",
+        "#SAFe"
+      ]
+    },
+    {
+      "title": "Cloud Solution Engineer",
+      "company": "Bosch",
+      "startDate": "2016-04",
+      "endDate": "2021-08",
+      "highlights": [
+        "Developed microservices in Node.js and Scala/Java for the Bosch Wrong-way Driver Warning service",
+        "Built CI/CD pipelines in Gitlab to build containers and run them on Azure Kubernetes Service",
+        "Highly scalable solution with real-time analysis of incoming data, pushing out warnings to connected users in just a few seconds",
+        "Speaker at Microsoft Ignite 2019 in Orlando"
+      ],
+      "technologies": [
+        "#AzureKubernetesService",
+        "#Gitlab",
+        "#Node.js",
+        "#TypeScript",
+        "#Kafka",
+        "#AzureDataExplorer",
+        "#AzureAPIManagement",
+        "#AzureStaticWebApps",
+        "#Angular",
+        "#Vue",
+        "#React",
+        "#Agile",
+        "#Scrum"
+      ]
+    },
+    {
+      "title": "Freelancer",
+      "company": "bernhardrode - webworker",
+      "startDate": "2013-01",
+      "endDate": "2018-03",
+      "highlights": [
+        "SelfEmployed",
+        "Worked as a developer and consultant for web development projects. My skillset included Angular, React, consulting, self-employment, Node.js, TypeScript, PHP, SQL, and NoSQL."
+      ],
+      "technologies": [
+        "#Angular",
+        "#React",
+        "#Consulting",
+        "#SelfEmployed",
+        "#Node.js",
+        "#TypeScript",
+        "#PHP",
+        "#SQL",
+        "#NoSQL"
+      ]
+    },
+    {
+      "title": "Frontend Lead Developer (Freelancer)",
+      "company": "diconium",
+      "startDate": "2016-06",
+      "endDate": "2017-06",
+      "highlights": [
+        "Led a team of 10+ frontend engineers as the Frontend Lead Developer for the Mercedes Benz Collection Shop."
+      ],
+      "technologies": ["#AngularJS", "#SAP", "#Hybris", "#Agile", "#Scrum"]
+    },
+    {
+      "title": "Web Application Developer",
+      "company": "Bechtle",
+      "startDate": "2013-08",
+      "endDate": "2014-12",
+      "highlights": [
+        "Built an internal AngularJS based CMS/ECM to generate catalog pages and automate post-production with Adobe InDesign"
+      ],
+      "technologies": [
+        "#AngularJS",
+        "#CoffeeScript",
+        "#MacOSServer",
+        "#Python",
+        "#Kanban"
+      ]
+    },
+    {
+      "title": "Technology Consultant",
+      "company": "N3K Network Systems",
+      "startDate": "2008-09",
+      "endDate": "2010-02",
+      "highlights": [
+        "Provided consulting services for DNS/DHCP solutions using Infoblox and Alcatel Lucent VitalQIP",
+        "Migrated global DNS/DHCP installations and trained end-users"
+      ],
+      "technologies": [
+        "#DNS",
+        "#DHCP",
+        "#Linux",
+        "#Unix",
+        "#WindowsADDNS",
+        "#Consulting",
+        "#Networking",
+        "#Security",
+        "#Instructor"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stuttgart Media University",
+      "degree": "Master of Science (MS)",
+      "fieldOfStudy": "Computer Science and Media",
+      "startDate": "2010",
+      "endDate": "2012",
+      "thesis": "Concept a web-based runtime environment for infotainment systems in a collaboration between the university and Volkswagen AG."
+    },
+    {
+      "institution": "Udacity",
+      "degree": "Nanodegree",
+      "fieldOfStudy": "Self-Driving Car Engineer",
+      "startDate": "2017",
+      "endDate": "2018",
+      "description": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. In this Udacity Nanodegree I acquired the skills and techniques used by self-driving car teams at the most advanced technology companies in the world."
+    },
+    {
+      "institution": "Stuttgart Media University",
+      "degree": "Bachelor of Science (BS)",
+      "fieldOfStudy": "Medieninformatik",
+      "startDate": "2005",
+      "endDate": "2008",
+      "thesis": "Integration of voice based communication/services in virtual worlds, based upon open standards at IBM."
+    }
+  ]
+}
