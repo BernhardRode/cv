@@ -1,36 +1,14 @@
 {
   "contact": {
+    "firstName": "Bernhard",
+    "lastName": "Rode",
     "email": "mail@bernhardrode.de",
     "linkedin": "linkedin.com/in/bernhardrode",
+    "x": "x.com/ebbo",
     "phone": "+491715629409",
     "website": "bernhardrode.de"
   },
-  "education": [
-    {
-      "degree": "Master of Science (MS)",
-      "endDate": "2012",
-      "fieldOfStudy": "Computer Science and Media",
-      "institution": "Stuttgart Media University",
-      "startDate": "2010",
-      "thesis": "Concept a web-based runtime environment for infotainment systems in a collaboration between the university and Volkswagen AG."
-    },
-    {
-      "degree": "Nanodegree",
-      "description": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. In this Udacity Nanodegree I acquired the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.",
-      "endDate": "2018",
-      "fieldOfStudy": "Self-Driving Car Engineer",
-      "institution": "Udacity",
-      "startDate": "2017"
-    },
-    {
-      "degree": "Bachelor of Science (BS)",
-      "endDate": "2008",
-      "fieldOfStudy": "Medieninformatik",
-      "institution": "Stuttgart Media University",
-      "startDate": "2005",
-      "thesis": "Integration of voice based communication/services in virtual worlds, based upon open standards at IBM."
-    }
-  ],
+  "preface": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!). When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?).",
   "experience": [
     {
       "company": "Bosch Engineering GmbH",
@@ -169,7 +147,6 @@
         "DHCP",
         "Linux",
         "Unix",
-        "WindowsADDNS",
         "Consulting",
         "Networking",
         "Security",
@@ -178,9 +155,32 @@
       "title": "Technology Consultant"
     }
   ],
-  "firstName": "Bernhard",
-  "lastName": "Rode",
-  "preface": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!). When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?).",
+  "education": [
+    {
+      "degree": "Master of Science (MS)",
+      "endDate": "2012",
+      "fieldOfStudy": "Computer Science and Media",
+      "institution": "Stuttgart Media University",
+      "startDate": "2010",
+      "thesis": "Concept a web-based runtime environment for infotainment systems in a collaboration between the university and Volkswagen AG."
+    },
+    {
+      "degree": "Nanodegree",
+      "description": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. In this Udacity Nanodegree I acquired the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.",
+      "endDate": "2018",
+      "fieldOfStudy": "Self-Driving Car Engineer",
+      "institution": "Udacity",
+      "startDate": "2017"
+    },
+    {
+      "degree": "Bachelor of Science (BS)",
+      "endDate": "2008",
+      "fieldOfStudy": "Medieninformatik",
+      "institution": "Stuttgart Media University",
+      "startDate": "2005",
+      "thesis": "Integration of voice based communication/services in virtual worlds, based upon open standards at IBM."
+    }
+  ],
   "skills": {
     "soft": [
       "Entrepreneurship",
@@ -191,16 +191,15 @@
     ],
     "technical": [
       "Agile (Scrum, Kanban, SAFe)",
-      "API Management",
-      "Backend (Node.js, PHP)",
-      "CI/CD",
+      "Backend (Node.js, Go, Rust, PHP)",
+      "Infrastructure as Code (Terraform, Crossplane, Pulumi, CDKTF. CDK, Bicep)",
+      "CI/CD (Gitlab, GitHub)",
       "Cloud (Azure, AWS)",
-      "Containerization (Kubernetes)",
+      "Containerization (Kubernetes, Docker, LXC)",
       "Databases (SQL, NoSQL)",
       "DevOps (Gitlab, Github Actions)",
-      "Frontend (Angular, React, AngularJS)",
-      "Microservices (Node.js, Scala)",
-      "Serverless",
+      "Frontend (Angular, AngularJS, React, Vue)",
+      "Serverless ❤️ (Azure Functions, AWS Lambda)",
       "Version Control (Git)"
     ]
   }
