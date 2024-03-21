@@ -13,7 +13,7 @@ This section is under construction!  I'm currently updating it to reflect my exp
 
 **Note:** I'm actively learning new technologies all the time!  Feel free to ask about my experience with specific languages or frameworks. 
 
-###  Looking for Collaboration anbd Jobs
+###  Looking for Collaboration and Jobs
 
 I'm an extroverted nerd who thrives in collaborative environments.  If you're looking for a passionate developer who enjoys clear communication and problem-solving,  let's connect!
 
