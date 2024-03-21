@@ -1,19 +1,42 @@
 {
-  "firstName": "Bernhard",
-  "lastName": "Rode",
   "contact": {
     "email": "mail@bernhardrode.de",
-    "phone": "+491715629409",
     "linkedin": "linkedin.com/in/bernhardrode",
-    "website": "https://bernhardrode.de"
+    "phone": "+491715629409",
+    "website": "bernhardrode.de"
   },
-  "summary": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!).  When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?).",
+  "education": [
+    {
+      "degree": "Master of Science (MS)",
+      "endDate": "2012",
+      "fieldOfStudy": "Computer Science and Media",
+      "institution": "Stuttgart Media University",
+      "startDate": "2010",
+      "thesis": "Concept a web-based runtime environment for infotainment systems in a collaboration between the university and Volkswagen AG."
+    },
+    {
+      "degree": "Nanodegree",
+      "description": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. In this Udacity Nanodegree I acquired the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.",
+      "endDate": "2018",
+      "fieldOfStudy": "Self-Driving Car Engineer",
+      "institution": "Udacity",
+      "startDate": "2017"
+    },
+    {
+      "degree": "Bachelor of Science (BS)",
+      "endDate": "2008",
+      "fieldOfStudy": "Medieninformatik",
+      "institution": "Stuttgart Media University",
+      "startDate": "2005",
+      "thesis": "Integration of voice based communication/services in virtual worlds, based upon open standards at IBM."
+    }
+  ],
   "experience": [
     {
-      "title": "Senior Cloud Solution Engineer / Tech Lead",
       "company": "Bosch Engineering GmbH",
-      "startDate": "2022-08",
+      "description": "I collaborated with clients, management, and development teams to design and implement cloud services for the automotive industry.",
       "endDate": "present",
+      "startDate": "2022-08",
       "technologies": [
         "#Automotive",
         "#Azure",
@@ -24,17 +47,16 @@
         "#GitHub",
         "#GitHubActions"
       ],
-      "description": "I collaborated with clients, management, and development teams to design and implement cloud services for the automotive industry."
+      "title": "Senior Cloud Solution Engineer / Tech Lead"
     },
     {
-      "title": "Senior Cloud Solution Engineer",
       "company": "Bosch",
-      "startDate": "2021-08",
       "endDate": "2022-08",
       "highlights": [
         "Built a future-proof software development environment for Bosch developers",
         "Joined forces with Microsoft/GitHub on building modern tools for the automotive industry"
       ],
+      "startDate": "2021-08",
       "technologies": [
         "#DeveloperAdvocacy",
         "#DigitalTransformation",
@@ -47,12 +69,11 @@
         "#Agile",
         "#Scrum",
         "#SAFe"
-      ]
+      ],
+      "title": "Senior Cloud Solution Engineer"
     },
     {
-      "title": "Cloud Solution Engineer",
       "company": "Bosch",
-      "startDate": "2016-04",
       "endDate": "2021-08",
       "highlights": [
         "Developed microservices in Node.js and Scala/Java for the Bosch Wrong-way Driver Warning service",
@@ -60,6 +81,7 @@
         "Highly scalable solution with real-time analysis of incoming data, pushing out warnings to connected users in just a few seconds",
         "Speaker at Microsoft Ignite 2019 in Orlando"
       ],
+      "startDate": "2016-04",
       "technologies": [
         "#AzureKubernetesService",
         "#Gitlab",
@@ -74,17 +96,17 @@
         "#React",
         "#Agile",
         "#Scrum"
-      ]
+      ],
+      "title": "Cloud Solution Engineer"
     },
     {
-      "title": "Freelancer",
       "company": "bernhardrode - webworker",
-      "startDate": "2013-01",
       "endDate": "2018-03",
       "highlights": [
         "SelfEmployed",
         "Worked as a developer and consultant for web development projects. My skillset included Angular, React, consulting, self-employment, Node.js, TypeScript, PHP, SQL, and NoSQL."
       ],
+      "startDate": "2013-01",
       "technologies": [
         "#Angular",
         "#React",
@@ -95,43 +117,49 @@
         "#PHP",
         "#SQL",
         "#NoSQL"
-      ]
+      ],
+      "title": "Freelancer"
     },
     {
-      "title": "Frontend Lead Developer (Freelancer)",
       "company": "diconium",
-      "startDate": "2016-06",
       "endDate": "2017-06",
       "highlights": [
         "Led a team of 10+ frontend engineers as the Frontend Lead Developer for the Mercedes Benz Collection Shop."
       ],
-      "technologies": ["#AngularJS", "#SAP", "#Hybris", "#Agile", "#Scrum"]
+      "startDate": "2016-06",
+      "technologies": [
+        "#AngularJS",
+        "#SAP",
+        "#Hybris",
+        "#Agile",
+        "#Scrum"
+      ],
+      "title": "Frontend Lead Developer (Freelancer)"
     },
     {
-      "title": "Web Application Developer",
       "company": "Bechtle",
-      "startDate": "2013-08",
       "endDate": "2014-12",
       "highlights": [
         "Built an internal AngularJS based CMS/ECM to generate catalog pages and automate post-production with Adobe InDesign"
       ],
+      "startDate": "2013-08",
       "technologies": [
         "#AngularJS",
         "#CoffeeScript",
         "#MacOSServer",
         "#Python",
         "#Kanban"
-      ]
+      ],
+      "title": "Web Application Developer"
     },
     {
-      "title": "Technology Consultant",
       "company": "N3K Network Systems",
-      "startDate": "2008-09",
       "endDate": "2010-02",
       "highlights": [
         "Provided consulting services for DNS/DHCP solutions using Infoblox and Alcatel Lucent VitalQIP",
         "Migrated global DNS/DHCP installations and trained end-users"
       ],
+      "startDate": "2008-09",
       "technologies": [
         "#DNS",
         "#DHCP",
@@ -142,33 +170,34 @@
         "#Networking",
         "#Security",
         "#Instructor"
-      ]
+      ],
+      "title": "Technology Consultant"
     }
   ],
-  "education": [
-    {
-      "institution": "Stuttgart Media University",
-      "degree": "Master of Science (MS)",
-      "fieldOfStudy": "Computer Science and Media",
-      "startDate": "2010",
-      "endDate": "2012",
-      "thesis": "Concept a web-based runtime environment for infotainment systems in a collaboration between the university and Volkswagen AG."
-    },
-    {
-      "institution": "Udacity",
-      "degree": "Nanodegree",
-      "fieldOfStudy": "Self-Driving Car Engineer",
-      "startDate": "2017",
-      "endDate": "2018",
-      "description": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. In this Udacity Nanodegree I acquired the skills and techniques used by self-driving car teams at the most advanced technology companies in the world."
-    },
-    {
-      "institution": "Stuttgart Media University",
-      "degree": "Bachelor of Science (BS)",
-      "fieldOfStudy": "Medieninformatik",
-      "startDate": "2005",
-      "endDate": "2008",
-      "thesis": "Integration of voice based communication/services in virtual worlds, based upon open standards at IBM."
-    }
-  ]
+  "firstName": "Bernhard",
+  "lastName": "Rode",
+  "skills": {
+    "technical": [
+      "Agile (Scrum, Kanban, SAFe)",
+      "API Management",
+      "Backend (Node.js, PHP)",
+      "CI/CD",
+      "Cloud (Azure, AWS)",
+      "Containerization (Kubernetes)",
+      "Databases (SQL, NoSQL)",
+      "DevOps (Gitlab, Github Actions)",
+      "Frontend (Angular, React, AngularJS)",
+      "Microservices (Node.js, Scala)",
+      "Serverless",
+      "Version Control (Git)"
+    ],
+    "soft": [
+      "Entrepreneurship",
+      "Growth Mindset",
+      "Leadership",
+      "Problem-Solving",
+      "Teamwork"
+    ]
+  },
+  "preface": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!). When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?)."
 }
