@@ -38,14 +38,14 @@
       "endDate": "present",
       "startDate": "2022-08",
       "technologies": [
-        "#Automotive",
-        "#Azure",
-        "#AWS",
-        "#IoT",
-        "#Industry4.0",
-        "#CloudNative",
-        "#GitHub",
-        "#GitHubActions"
+        "Automotive",
+        "Azure",
+        "AWS",
+        "IoT",
+        "Industry4.0",
+        "CloudNative",
+        "GitHub",
+        "GitHubActions"
       ],
       "title": "Senior Cloud Solution Engineer / Tech Lead"
     },
@@ -58,17 +58,17 @@
       ],
       "startDate": "2021-08",
       "technologies": [
-        "#DeveloperAdvocacy",
-        "#DigitalTransformation",
-        "#IoT",
-        "#Github",
-        "#GitHubActions",
-        "#AzureKubernetesService",
-        "#AzureStaticWebApps",
-        "#Serverless",
-        "#Agile",
-        "#Scrum",
-        "#SAFe"
+        "DeveloperAdvocacy",
+        "DigitalTransformation",
+        "IoT",
+        "Github",
+        "GitHubActions",
+        "AzureKubernetesService",
+        "AzureStaticWebApps",
+        "Serverless",
+        "Agile",
+        "Scrum",
+        "SAFe"
       ],
       "title": "Senior Cloud Solution Engineer"
     },
@@ -83,19 +83,19 @@
       ],
       "startDate": "2016-04",
       "technologies": [
-        "#AzureKubernetesService",
-        "#Gitlab",
-        "#Node.js",
-        "#TypeScript",
-        "#Kafka",
-        "#AzureDataExplorer",
-        "#AzureAPIManagement",
-        "#AzureStaticWebApps",
-        "#Angular",
-        "#Vue",
-        "#React",
-        "#Agile",
-        "#Scrum"
+        "AzureKubernetesService",
+        "Gitlab",
+        "Node.js",
+        "TypeScript",
+        "Kafka",
+        "AzureDataExplorer",
+        "AzureAPIManagement",
+        "AzureStaticWebApps",
+        "Angular",
+        "Vue",
+        "React",
+        "Agile",
+        "Scrum"
       ],
       "title": "Cloud Solution Engineer"
     },
@@ -108,15 +108,15 @@
       ],
       "startDate": "2013-01",
       "technologies": [
-        "#Angular",
-        "#React",
-        "#Consulting",
-        "#SelfEmployed",
-        "#Node.js",
-        "#TypeScript",
-        "#PHP",
-        "#SQL",
-        "#NoSQL"
+        "Angular",
+        "React",
+        "Consulting",
+        "SelfEmployed",
+        "Node.js",
+        "TypeScript",
+        "PHP",
+        "SQL",
+        "NoSQL"
       ],
       "title": "Freelancer"
     },
@@ -128,11 +128,11 @@
       ],
       "startDate": "2016-06",
       "technologies": [
-        "#AngularJS",
-        "#SAP",
-        "#Hybris",
-        "#Agile",
-        "#Scrum"
+        "AngularJS",
+        "SAP",
+        "Hybris",
+        "Agile",
+        "Scrum"
       ],
       "title": "Frontend Lead Developer (Freelancer)"
     },
@@ -144,11 +144,11 @@
       ],
       "startDate": "2013-08",
       "technologies": [
-        "#AngularJS",
-        "#CoffeeScript",
-        "#MacOSServer",
-        "#Python",
-        "#Kanban"
+        "AngularJS",
+        "CoffeeScript",
+        "MacOSServer",
+        "Python",
+        "Kanban"
       ],
       "title": "Web Application Developer"
     },
@@ -161,22 +161,30 @@
       ],
       "startDate": "2008-09",
       "technologies": [
-        "#DNS",
-        "#DHCP",
-        "#Linux",
-        "#Unix",
-        "#WindowsADDNS",
-        "#Consulting",
-        "#Networking",
-        "#Security",
-        "#Instructor"
+        "DNS",
+        "DHCP",
+        "Linux",
+        "Unix",
+        "WindowsADDNS",
+        "Consulting",
+        "Networking",
+        "Security",
+        "Instructor"
       ],
       "title": "Technology Consultant"
     }
   ],
   "firstName": "Bernhard",
   "lastName": "Rode",
+  "preface": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!). When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?).",
   "skills": {
+    "soft": [
+      "Entrepreneurship",
+      "Growth Mindset",
+      "Leadership",
+      "Problem-Solving",
+      "Teamwork"
+    ],
     "technical": [
       "Agile (Scrum, Kanban, SAFe)",
       "API Management",
@@ -190,14 +198,6 @@
       "Microservices (Node.js, Scala)",
       "Serverless",
       "Version Control (Git)"
-    ],
-    "soft": [
-      "Entrepreneurship",
-      "Growth Mindset",
-      "Leadership",
-      "Problem-Solving",
-      "Teamwork"
     ]
-  },
-  "preface": "Tech enthusiast by day, family man and adventurer by night (well, evenings and weekends!). When I'm not coding or tackling work challenges, I'm hanging out with my wife and our two little girls. Outside of family time, you can find me cheering on my favorite sports team (let's go stuttgart), hitting  mountain bike trails, or unwinding with a good video game (because everyone needs a little downtime, right?)."
+  }
 }
