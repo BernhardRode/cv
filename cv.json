@@ -34,23 +34,25 @@
   "experience": [
     {
       "company": "Bosch Engineering GmbH",
-      "description": "I collaborated with clients, management, and development teams to design and implement cloud services for the automotive industry.",
+      "description": "I collaborated with clients, management, and development teams to design and implement cloud services for the automotive industry and industrial digitalization.",
       "endDate": "present",
       "startDate": "2022-08",
       "technologies": [
         "Automotive",
-        "Azure",
         "AWS",
-        "IoT",
-        "Industry4.0",
+        "Azure",
+        "Solution Consulting",
         "CloudNative",
         "GitHub",
-        "GitHubActions"
+        "GitHubActions",
+        "Industry4.0",
+        "IoT",
+        "Terraform"
       ],
       "title": "Senior Cloud Solution Engineer / Tech Lead"
     },
     {
-      "company": "Bosch",
+      "company": "Robert Bosch GmbH",
       "endDate": "2022-08",
       "highlights": [
         "Built a future-proof software development environment for Bosch developers",
@@ -68,12 +70,14 @@
         "Serverless",
         "Agile",
         "Scrum",
-        "SAFe"
+        "SAFe",
+        "IoT",
+        "Terraform"
       ],
       "title": "Senior Cloud Solution Engineer"
     },
     {
-      "company": "Bosch",
+      "company": "Robert Bosch GmbH",
       "endDate": "2021-08",
       "highlights": [
         "Developed microservices in Node.js and Scala/Java for the Bosch Wrong-way Driver Warning service",
